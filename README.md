@@ -7,7 +7,6 @@ Howewer , first of all we will dockerize the source code then pushed it to gitla
 
 # Creating the repository in gitlabci
 From the gitlabci , we are creating the gitlabci repo and naming it “mini-projet-gitlab” .
-````
 
-![alt text]([image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/d5d0a0df-1026-4a32-aa63-b186743ee0ee))
+![alt text]([image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/d5d0a0df-1026-4a32-aa63-b186743ee0ee)).
 
