@@ -1,4 +1,3 @@
-
 # MINI-PROJET-GITLAB
 This mini project deals with the setup of the CICD pipeline for a static website . It's was carrying out during my participation to the devops bootcamp from Eazytraining . Checkout all the files related to the the dockerfile and gitlabci done by me here (https://gitlab.com/kitepoye/mini-projet-gitlab)
 
