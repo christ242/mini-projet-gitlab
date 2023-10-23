@@ -9,4 +9,6 @@ Howewer , first of all we will dockerize the source code then pushed it to gitla
 From the gitlabci , we are creating the gitlabci repo and naming it “mini-projet-gitlab” .
 
 ![alt text](![image](![image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/e6930de4-ad8c-4eef-a7cb-99c305bf36d4)
+As you can see it up , the project is empty and has only the readme’file .
+#
 
