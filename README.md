@@ -10,4 +10,5 @@ From the gitlabci , we are creating the gitlabci repo and naming it “mini-proj
 
 ![alt text]([image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/d5d0a0df-1026-4a32-aa63-b186743ee0ee))
 
+![alt text]([image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/d5d0a0df-1026-4a32-aa63-b186743ee0ee)
 
