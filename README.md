@@ -8,4 +8,4 @@ Howewer , first of all we will dockerize the source code then pushed it to gitla
 # Creating the repository in gitlabci
 From the gitlabci , we are creating the gitlabci repo and naming it “mini-projet-gitlab” .
 
-![alt text]([image](https://github.com/christ242/mini-projet-docker-eazytraining/assets/60726494/231dc42f-07a3-48fe-9ef8-447449a977b4)
+([image](https://github.com/christ242/mini-projet-docker-eazytraining/assets/60726494/231dc42f-07a3-48fe-9ef8-447449a977b4)
