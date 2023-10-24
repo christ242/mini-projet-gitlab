@@ -10,5 +10,8 @@ From the gitlabci , we are creating the gitlabci repo and naming it “mini-proj
 
 ![alt text](![image](![image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/e6930de4-ad8c-4eef-a7cb-99c305bf36d4)
 As you can see it up , the project is empty and has only the readme’file .
-#
 
+# Cloning the project from the localhost mahine 
+After creating the mini-project-gitlab repo , we are going to clone it to our localhost machine .
+
+![alt text](![image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/764f06c9-61a3-480f-ab8e-a293a63eab79)
