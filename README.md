@@ -34,6 +34,7 @@ RUN git clone https://github.com/diranetafen/static-website-example.git /usr/sha
 #CMD nginx -g 'daemon off;'
 CMD ["nginx", "-g", "daemon off;"]
 ```
+
 # gitlab-ci
 
 After packaging , the code we are going to write down the gitlab ci  pipeline which will be  consist of a lot of steps such as : 
