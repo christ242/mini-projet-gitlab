@@ -192,6 +192,12 @@ test prod:
 ![alt text](![image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/a9b573c9-53c3-4e37-91c1-921c9c246ee4)
 
 
+# Sending the source code , Dockerfile and .gitlab ci files to Gitlab-ci
+
+![alt text](![image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/8b047e7c-13b0-4513-b179-f6875ffd69f0)
+
+
+![alt text](![image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/32d231cc-c2a0-42b6-bc2f-6e503bda9f42)
 
 
 
