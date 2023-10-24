@@ -189,6 +189,9 @@ test prod:
 
 ![alt text](![image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/d6d555bc-b0f9-4254-bf3b-d299bcd6b031)
 
+![alt text](![image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/a9b573c9-53c3-4e37-91c1-921c9c246ee4)
+
+
 
 
 
