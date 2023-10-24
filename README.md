@@ -216,6 +216,15 @@ test prod:
 
 # Checking out the containers on the Eazylab’s training API  for deployment
 
+We should have two containers in order to ensure the deployment has been successful.
+
+![alt text](![image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/ef58bad9-bd75-4f39-954e-a4e21b6243e2)
+
+# Checking the images on gitlabci
+
+![alt text](![image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/6c046067-6ad5-49d5-a97d-c4d3488cb81b)
+
+
 
 
 
