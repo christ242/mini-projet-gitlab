@@ -20,4 +20,20 @@ Then we access the project , and see everything in it .
 
 ![alt text](![image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/f8e46ce3-cda6-45b8-a215-97c4d95a0b09)
 
+# Dockerfile writing 
+```bash
+FROM nginx:1.21.1
+LABEL maintainer="Christ BAGAMBOULA"
+RUN apt-get update && \
+    apt-get upgrade -y && \
+    apt-get install -y curl && \
+    apt-get install -y git
+RUN rm -Rf /usr/share/nginx/html/*
+RUN git clone https://github.com/diranetafen/static-website-example.git /usr/share/nginx/html
+#CMD nginx -g 'daemon off;'
+CMD ["nginx", "-g", "daemon off;"]
+
+```
+
+
 
