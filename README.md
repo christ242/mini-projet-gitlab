@@ -1,4 +1,4 @@
-# MINI-PROJET-GITLAB
+![image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/b3b08b04-adba-4753-852b-4fd7d501f406)# MINI-PROJET-GITLAB
 This mini project deals with the setup of the CICD pipeline for a static website . It's was carrying out during my participation to the devops bootcamp from Eazytraining . Checkout all the files related to the the dockerfile and gitlabci done by me here (https://gitlab.com/kitepoye/mini-projet-gitlab)
 
 # Context and objectives 
@@ -180,6 +180,12 @@ test prod:
 # Committing the sources files 
 
 ![alt text](![image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/c65d6cec-2efb-49b5-a1a9-f28e4eb7db5c)
+
+# Deploying the API container on Eazytraing environment Lab
+
+![alt text](![image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/19179cef-4959-44dd-9ccc-7b42aac22033)
+
+![alt text](![image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/30e521e1-5d51-436d-84be-5a1a19722f9b)
 
 
 
