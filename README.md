@@ -17,5 +17,7 @@ After creating the mini-project-gitlab repo , we are going to clone it to our lo
 ![alt text](![image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/764f06c9-61a3-480f-ab8e-a293a63eab79)
 
 Then we access the project , and see everything in it .
-![alt text](![image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/c0e9cf9f-46ce-4c27-900c-9e3e27354879)
+
+![alt text](![image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/f8e46ce3-cda6-45b8-a215-97c4d95a0b09)
+
 
