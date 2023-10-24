@@ -176,3 +176,10 @@ test prod:
   only:
     - main
 ```
+# Committing the sources files 
+
+![alt text](![image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/c65d6cec-2efb-49b5-a1a9-f28e4eb7db5c)
+
+
+
+
