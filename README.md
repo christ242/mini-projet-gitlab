@@ -199,5 +199,27 @@ test prod:
 
 ![alt text](![image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/32d231cc-c2a0-42b6-bc2f-6e503bda9f42)
 
+# Creating the Variable Name in gitlabci
+
+![alt text](![image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/d62653e9-ce0a-49ad-8161-bf2a7ac90b7e)
+
+# Launching the pipeline cicd on gitlab 
+![alt text](![image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/e7a45f9e-5eac-4402-a43f-26e72457bb39)
+
+![alt text](![image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/4f470baf-4010-4a7d-be48-04294bdbd141)
+
+![alt text](![image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/57fb2077-3279-49f5-a911-54c023ad3b53)
+
+![alt text](![image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/67dcbd4d-29e1-4d67-a201-0c20bcd4d430)
+
+![alt text](![image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/7c5704aa-1d01-4c4f-a64e-68471d0e8bfa)
+
+# Checking out the containers on the Eazylab’s training API  for deployment
+
+
+
+
+
+
 
 
