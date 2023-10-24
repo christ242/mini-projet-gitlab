@@ -1,4 +1,4 @@
-![image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/b3b08b04-adba-4753-852b-4fd7d501f406)# MINI-PROJET-GITLAB
+# MINI-PROJET-GITLAB
 This mini project deals with the setup of the CICD pipeline for a static website . It's was carrying out during my participation to the devops bootcamp from Eazytraining . Checkout all the files related to the the dockerfile and gitlabci done by me here (https://gitlab.com/kitepoye/mini-projet-gitlab)
 
 # Context and objectives 
