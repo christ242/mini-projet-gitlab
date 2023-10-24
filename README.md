@@ -15,3 +15,7 @@ As you can see it up , the project is empty and has only the readme’file .
 After creating the mini-project-gitlab repo , we are going to clone it to our localhost machine .
 
 ![alt text](![image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/764f06c9-61a3-480f-ab8e-a293a63eab79)
+
+Then we access the project , and see everything in it .
+![alt text](![image](https://github.com/christ242/mini-projet-gitlab/assets/60726494/c0e9cf9f-46ce-4c27-900c-9e3e27354879)
+
